@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adendeca.github.io/sitemap.html.gz
+Sitemap: https://adendeca.github.io/app/sitemap.html.gz
+Sitemap: https://adendeca.github.io/assets/sitemap.html.gz
+Sitemap: https://adendeca.github.io/css/sitemap.html.gz
+Sitemap: https://adendeca.github.io/includes/sitemap.html.gz
+Sitemap: https://adendeca.github.io/item/sitemap.html.gz
+Sitemap: https://adendeca.github.io/src/sitemap.html.gz
